@@ -1,2 +1,7 @@
 *.class
 *.log
+.idea/*
+edu/target/*
+project/target/*
+project/project/*
+target/*
